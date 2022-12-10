@@ -24,6 +24,7 @@
 		B25B962A29448764003FDDF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B25B962D29448764003FDDF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B25B962F29448764003FDDF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B25B963529448830003FDDF7 /* Session9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Session9.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				B25B962129448762003FDDF7 /* AppDelegate.swift */,
 				B25B962329448762003FDDF7 /* SceneDelegate.swift */,
 				B25B962529448762003FDDF7 /* ViewController.swift */,
+				B25B963529448830003FDDF7 /* Session9.playground */,
 				B25B962729448762003FDDF7 /* Main.storyboard */,
 				B25B962A29448764003FDDF7 /* Assets.xcassets */,
 				B25B962C29448764003FDDF7 /* LaunchScreen.storyboard */,
